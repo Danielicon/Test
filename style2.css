@@ -1,0 +1,93 @@
+Div:hover main{
+    display: block;
+}
+
+Div:hover article{
+    display: block;
+}
+
+Div:hover header{
+    display: block;
+}
+
+Div:hover footer{
+    display: block;
+}
+
+
+.main{
+    display: flex;
+}
+
+.main1{
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+    border-radius:50%;
+    box-shadow: 0 0 5px 5px black;
+
+}
+
+.main2{
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+    border-radius:50%;
+    box-shadow: 0 0 5px 5px black;
+    
+}
+
+.main3{
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+    border-radius:50%;
+    box-shadow: 0 0 5px 5px black;
+    
+}
+
+.main4{
+    height: 200px;
+    width: 200px;
+    margin-left: 40px;
+    border-radius:50%;
+    box-shadow: 0 0 5px 5px black;
+}
+
+main{
+    display: none;
+    background-color: yellow;
+    padding: 20px;
+    height: 10px;
+    width: 100px;
+    margin-left: 40px;
+}
+
+article{
+    display: none;
+    background-color: green;
+    padding: 20px;
+    height: 10px;
+    width: 90px;
+    margin-left: 40px;
+}
+
+header{
+    display: none;
+    background-color: purple;
+    padding: 20px;
+    height: 10px;
+    width: 90px;
+    margin-left: 40px;
+}
+
+footer{
+    display: none;
+    background-color: greenyellow;
+    padding: 20px;
+    height: 10px;
+    width: 90px;
+    margin-left: 40px;
+}
+
+

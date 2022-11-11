@@ -1,0 +1,10 @@
+Div{
+    background-color: green;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+Div:hover{
+    background-color: blue;
+}

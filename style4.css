@@ -1,0 +1,46 @@
+.flex-container{
+    width: 400px;
+    height: 250px;
+    background: black;
+    display: flex;
+    justify-content: center;
+}
+
+.flex-item1{
+    background: url(img/girlcode.jpg);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.flex-item2{
+    background: url(img/predo.jpg);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.flex-item3{
+    background: url(img/chocolate1.jpg);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.textbox1{
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    overflow: auto;
+    resize: both;
+
+}
+
+.textbox2{
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    overflow: auto;
+    resize: both;
+
+}

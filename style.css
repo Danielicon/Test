@@ -1,0 +1,69 @@
+body{
+    background-image: url(img/girlcode.jpg);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.header{
+    display: flex;
+    margin-left: 120px;
+}
+
+.header1{
+    height: 100px;
+    width: 300px;
+    color:white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.main{
+    display: flex;
+    margin-left: 130px;
+}
+
+.main1{
+    height: 100px;
+    width: 600px;
+    font-size: 20px;
+    padding: 20px;
+    font-weight: bold;
+    color:white;
+}
+
+.text{
+    display: flex;
+    margin-left: 40px;
+}
+
+.text1{
+    height: 200px;
+    width: 600px;
+    font-size: 20px;
+    padding: 20px;
+    margin-left: 50px;
+    color: white;
+}
+
+label{
+    color:orange;
+}
+
+li{
+    color:white
+}
+
+.footer{
+    display: flex;
+    margin-left: 120px;
+}
+
+.footer1{
+    height: 100px;
+    width: 200px;
+    font-size: 20px;
+    color:white;
+}
